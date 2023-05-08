@@ -1,0 +1,20 @@
+.nft-item {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  background-color: cadetblue;
+}
+
+.content {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px;
+  color: white;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
